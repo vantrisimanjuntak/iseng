@@ -8,7 +8,8 @@
 </head>
 <body>
     <h1>Halaman About</h1>
-    <h3>Yangseku</h3>
-    <p>Yang selalu kusayang</p>
+    <h3> {{ $name; }} </h3>
+    <p>{{ $email; }}</p>
+    <img src="img/Spongebob-Backgrounds-for-Desktop.jpg" alt="" width="200">
 </body>
 </html>
